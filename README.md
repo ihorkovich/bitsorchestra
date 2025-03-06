@@ -21,13 +21,13 @@ An application for manipulation with books. The app was built with React and Tai
    ```bash
    npm i
    ```
-4. Run React app
-   ```bash
-   npm run dev
-   ```
-5. Run json-server
+4. Run json-server
    ```bash
    npx json-server db.json
+   ```
+5. Run React app
+   ```bash
+   npm run dev
    ```
 6. Open link in your browser
    ```
