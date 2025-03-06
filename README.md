@@ -21,11 +21,19 @@ An application for manipulation with books. The app was built with React and Tai
    ```bash
    npm i
    ```
-4. Run json-server
+4. Go to server folder
+   ```bash
+   cd src/db
+   ```
+5. Run json-server
    ```bash
    npx json-server db.json
    ```
-5. Run React app
+6. Go back to main folder
+   ```bash
+   cd ../..
+   ```
+7. Run app
    ```bash
    npm run dev
    ```
