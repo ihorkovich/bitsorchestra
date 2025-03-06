@@ -29,15 +29,11 @@ An application for manipulation with books. The app was built with React and Tai
    ```bash
    npx json-server db.json
    ```
-6. Go back to main folder
-   ```bash
-   cd ../..
-   ```
-7. Run app
+6. Open new terminal from main project and run whole app with
    ```bash
    npm run dev
    ```
-6. Open link in your browser
+7. Open link in your browser
    ```
    http://localhost:5173/
    ```
