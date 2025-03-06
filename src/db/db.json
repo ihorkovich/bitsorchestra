@@ -1,0 +1,114 @@
+{
+  "books": [
+    {
+      "id": "m5n8",
+      "title": "A Brief History of Memes",
+      "author": "Elon K.",
+      "category": "History",
+      "isbn": "978-3-21-65",
+      "createdAt": "30 June 2020, 9:00AM",
+      "editedAt": "1 July 2020, 5:30PM",
+      "status": "active"
+    },
+    {
+      "id": "q2r4",
+      "title": "The Dragon Who Sold Stocks",
+      "author": "Warren Firefly",
+      "category": "Business",
+      "isbn": "978-4-56-78",
+      "createdAt": "22 August 2022, 8:15AM",
+      "editedAt": "23 August 2022, 1:40PM",
+      "status": "active"
+    },
+    {
+      "id": "z1y3",
+      "title": "The Quantum Pizza Theory",
+      "author": "Dr. Pepperoni",
+      "category": "Science",
+      "isbn": "978-5-67-89",
+      "createdAt": "10 October 2021, 7:30AM",
+      "editedAt": "11 October 2021, 4:20PM",
+      "status": "inactive"
+    },
+    {
+      "id": "k4l7",
+      "title": "The Pirate’s Guide to Startups",
+      "author": "Jack Sparrow Jr.",
+      "category": "Business",
+      "isbn": "978-6-78-9",
+      "createdAt": "5 May 2019, 6:10AM",
+      "editedAt": "6 May 2019, 2:00PM",
+      "status": "active"
+    },
+    {
+      "id": "p8q1",
+      "title": "404 Love Not Found",
+      "author": "Cassandra Null",
+      "category": "Fiction",
+      "isbn": "978-7-89-01",
+      "createdAt": "11 April 2020, 8:50AM",
+      "editedAt": "12 April 2020, 3:25PM",
+      "status": "active"
+    },
+    {
+      "id": "v6w9",
+      "title": "Medieval Hacking Techniques",
+      "author": "Sir Code-a-Lot",
+      "category": "History",
+      "isbn": "978-8-90-12",
+      "createdAt": "19 September 2023, 10:35AM",
+      "editedAt": "20 September 2023, 5:15PM",
+      "status": "inactive"
+    },
+    {
+      "id": "b7c2",
+      "title": "The Dark Art of Procrastination",
+      "author": "Lazy McLazy",
+      "category": "Business",
+      "isbn": "978-0-12-3",
+      "createdAt": "3 March 2021, 6:00AM",
+      "editedAt": "4 March 2021, 2:30PM",
+      "status": "active"
+    },
+    {
+      "id": "d5e8",
+      "title": "The Chronicles of Parallel Universes",
+      "author": "Sophie Schrödinger",
+      "category": "Fantasy",
+      "isbn": "978-1-23-45",
+      "createdAt": "1 January 2020, 7:45AM",
+      "editedAt": "2 January 2020, 3:55PM",
+      "status": "active"
+    },
+    {
+      "id": "j2k5",
+      "title": "The Secret Spells of Marketing",
+      "author": "Hermione Adsinger",
+      "category": "Business",
+      "isbn": "978-4-56-78",
+      "createdAt": "28 February 2023, 9:55AM",
+      "editedAt": "1 March 2023, 3:15PM",
+      "status": "active"
+    },
+    {
+      "id": "l8m1",
+      "title": "Lost in the Loop",
+      "author": "Kyle JavaScript",
+      "category": "Science",
+      "isbn": "978-5-67-89",
+      "createdAt": "18 December 2022, 11:30AM",
+      "editedAt": "19 December 2022, 4:40PM",
+      "status": "inactive"
+    },
+    {
+      "id": "b375",
+      "title": "The Dragon Who Sold Stocks",
+      "author": "Warren Fireflydvasvsdvasv",
+      "category": "Business",
+      "isbn": "978-4-56-78",
+      "createdAt": "6 March 2025, 1:02 AM",
+      "editedAt": "-",
+      "status": "active"
+    }
+  ]
+}
